@@ -1,8 +1,0 @@
-﻿{
-    "WaterMarkConfig": [
-        { "CopyName": "dunitian.cnblogs.com" },
-        { "CopyImgUrl": "水印.png" },
-        { "CopyLocation": "9" },
-        { "CopyOpacity": "0.7" }
-    ]
-}
